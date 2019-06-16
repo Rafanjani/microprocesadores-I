@@ -1,0 +1,40 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Wed Jun 12 03:18:10 2019
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000082
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000081      
+            130 out of 33048 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                      FIN   0x00007e    program     static C:\Users\Reynaldo\Documents\Universidad\Micro I\Proyectos\Untitled.asm
+           MULTIPLICACION   0x00006c    program     static C:\Users\Reynaldo\Documents\Universidad\Micro I\Proyectos\Untitled.asm
+                    RESTA   0x000056    program     static C:\Users\Reynaldo\Documents\Universidad\Micro I\Proyectos\Untitled.asm
+                   SEGUIR   0x000070    program     static C:\Users\Reynaldo\Documents\Universidad\Micro I\Proyectos\Untitled.asm
+                     SUMA   0x00003e    program     static C:\Users\Reynaldo\Documents\Universidad\Micro I\Proyectos\Untitled.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     SUMA   0x00003e    program     static C:\Users\Reynaldo\Documents\Universidad\Micro I\Proyectos\Untitled.asm
+                    RESTA   0x000056    program     static C:\Users\Reynaldo\Documents\Universidad\Micro I\Proyectos\Untitled.asm
+           MULTIPLICACION   0x00006c    program     static C:\Users\Reynaldo\Documents\Universidad\Micro I\Proyectos\Untitled.asm
+                   SEGUIR   0x000070    program     static C:\Users\Reynaldo\Documents\Universidad\Micro I\Proyectos\Untitled.asm
+                      FIN   0x00007e    program     static C:\Users\Reynaldo\Documents\Universidad\Micro I\Proyectos\Untitled.asm
+
+
